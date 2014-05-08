@@ -1,5 +1,3 @@
-#test
-
 from mechanize import Browser
 from bs4 import *
 import re
